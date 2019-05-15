@@ -54206,8 +54206,8 @@ WINE REGISTRY Version 2
 "CommonPictures"=str(2):"%PUBLIC%\\Pictures"
 "CommonVideo"=str(2):"%PUBLIC%\\Videos"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1557950296 7162800
-#time=1d50b58896107b0
+[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1557950693 3632400
+#time=1d50b5975cc8d90
 "@Droid Sans Fallback (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansFallbackFull.ttf"
 "@Microsoft Yahei (TrueType)"="Z:\\home\\dustin\\.local\\share\\lutris\\runners\\wine\\tkg-unity-4.1-x86_64\\bin\\..\\share\\wine\\fonts\\msyh.ttf"
 "AkaashNormal (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\AkaashNormal.ttf"
@@ -56952,8 +56952,8 @@ WINE REGISTRY Version 2
 "MinLevel"=dword:00012000
 "RecommendedLevel"=dword:00012000
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{25DA76D0-033C-4235-9002-19F48894AC6F}] 1557950297 5456720
-#time=1d50b5889df95d0
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{25DA76D0-033C-4235-9002-19F48894AC6F}] 1557950049 1379850
+#time=1d50b57f5cf948a
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{25DA76D0-033C-4235-9002-19F48894AC6F}\\Properties] 1557927965 6242000
@@ -56970,8 +56970,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{8AF1BECA-1C47-4A14-8F7C-C5F66D44A749}] 1557950297 5470180
-#time=1d50b5889dfca64
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{8AF1BECA-1C47-4A14-8F7C-C5F66D44A749}] 1557950049 1393940
+#time=1d50b57f5cfcb94
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{8AF1BECA-1C47-4A14-8F7C-C5F66D44A749}\\Properties] 1557947937 7526340
@@ -56989,8 +56989,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{A05F3D7E-4816-4D3E-AC34-F9E52E8983E0}] 1557950297 5465400
-#time=1d50b5889dfb7b8
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{A05F3D7E-4816-4D3E-AC34-F9E52E8983E0}] 1557950049 1389380
+#time=1d50b57f5cfb9c4
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{A05F3D7E-4816-4D3E-AC34-F9E52E8983E0}\\Properties] 1557947937 7529310
@@ -57008,8 +57008,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{C177DF4C-E2B2-4DD1-B4BD-23FDEF5A1F32}] 1557950297 5478380
-#time=1d50b5889dfea6c
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{C177DF4C-E2B2-4DD1-B4BD-23FDEF5A1F32}] 1557950049 1402390
+#time=1d50b57f5cfec96
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{C177DF4C-E2B2-4DD1-B4BD-23FDEF5A1F32}\\Properties] 1557947937 7532200
@@ -57027,8 +57027,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{C9CCEF82-E948-4C65-A4B7-E27EBEC3466F}] 1557950297 5474590
-#time=1d50b5889dfdb9e
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{C9CCEF82-E948-4C65-A4B7-E27EBEC3466F}] 1557950049 1398280
+#time=1d50b57f5cfdc88
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{C9CCEF82-E948-4C65-A4B7-E27EBEC3466F}\\Properties] 1557927965 6267070
@@ -57046,8 +57046,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{D61E191C-AF4E-4A2C-8837-904A1EA92680}] 1557950297 5482370
-#time=1d50b5889dffa02
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{D61E191C-AF4E-4A2C-8837-904A1EA92680}] 1557950049 1407790
+#time=1d50b57f5d001ae
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{D61E191C-AF4E-4A2C-8837-904A1EA92680}\\Properties] 1557927965 6276340
@@ -57065,8 +57065,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{E57FC4F9-E351-466B-9A90-F302F8432580}] 1557950297 5459590
-#time=1d50b5889dfa106
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{E57FC4F9-E351-466B-9A90-F302F8432580}] 1557950049 1383230
+#time=1d50b57f5cfa1be
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{E57FC4F9-E351-466B-9A90-F302F8432580}\\Properties] 1557947937 7541870
@@ -57084,8 +57084,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{3405785D-8D79-4978-8BD4-C6312515721A}] 1557950297 5444900
-#time=1d50b5889df67a4
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{3405785D-8D79-4978-8BD4-C6312515721A}] 1557950049 1366780
+#time=1d50b57f5cf617c
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{3405785D-8D79-4978-8BD4-C6312515721A}\\Properties] 1557927965 6222280
@@ -57104,8 +57104,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{9E477205-8D35-4614-93B4-808CBFE98118}] 1557950297 5440990
-#time=1d50b5889df585e
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{9E477205-8D35-4614-93B4-808CBFE98118}] 1557950049 1362510
+#time=1d50b57f5cf50ce
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{9E477205-8D35-4614-93B4-808CBFE98118}\\Properties] 1557927965 6218290
@@ -57124,8 +57124,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{B0197AA2-B75E-44F4-9FB9-0EF76AD09F29}] 1557950297 5452900
-#time=1d50b5889df86e4
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{B0197AA2-B75E-44F4-9FB9-0EF76AD09F29}] 1557950049 1376040
+#time=1d50b57f5cf85a8
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{B0197AA2-B75E-44F4-9FB9-0EF76AD09F29}\\Properties] 1557927965 6238100
@@ -57144,8 +57144,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{D7119DB7-60DE-4506-9C6C-7E3EFBB1DC08}] 1557950297 5448630
-#time=1d50b5889df7636
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{D7119DB7-60DE-4506-9C6C-7E3EFBB1DC08}] 1557950049 1371750
+#time=1d50b57f5cf74e6
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{D7119DB7-60DE-4506-9C6C-7E3EFBB1DC08}\\Properties] 1557927965 6231520
@@ -57164,8 +57164,8 @@ WINE REGISTRY Version 2
   05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{FD47D9CC-4218-4135-9CE2-0C195C87405B}] 1557950297 5437050
-#time=1d50b5889df48fa
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{FD47D9CC-4218-4135-9CE2-0C195C87405B}] 1557950049 1358410
+#time=1d50b57f5cf40ca
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{FD47D9CC-4218-4135-9CE2-0C195C87405B}\\Properties] 1557927965 6212510
@@ -59270,8 +59270,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\FontMapper] 1557927860 2131930
 #time=1d50b244c2e59da
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1557950296 7162660
-#time=1d50b5889610724
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1557950693 3632150
+#time=1d50b5975cc8c96
 "@Droid Sans Fallback (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansFallbackFull.ttf"
 "@Microsoft Yahei (TrueType)"="Z:\\home\\dustin\\.local\\share\\lutris\\runners\\wine\\tkg-unity-4.1-x86_64\\bin\\..\\share\\wine\\fonts\\msyh.ttf"
 "AkaashNormal (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\AkaashNormal.ttf"
@@ -61395,8 +61395,8 @@ WINE REGISTRY Version 2
 [Software\\Registered Applications] 1557927860 2183240
 #time=1d50b244c2f2248
 
-[Software\\sierra online\\setup\\lomse] 1557928523 9252570
-#time=1d50b25d7c8c65a
+[Software\\sierra online\\setup\\lomse] 1557950843 1663800
+#time=1d50b59cf16b2b8
 "cdpath"="c:\\\\"
 
 [Software\\Wine\\LicenseInformation] 1557927860 2734220
@@ -62561,8 +62561,8 @@ WINE REGISTRY Version 2
 #time=1d50b244e3543ec
 "Description"="Microsoft Software Synthesizer"
 
-[Software\\Wow6432Node\\Microsoft\\DirectPlay\\Applications] 1557950297 356090
-#time=1d50b588991c17a
+[Software\\Wow6432Node\\Microsoft\\DirectPlay\\Applications] 1557950048 6241640
+#time=1d50b57f5812d68
 
 [Software\\Wow6432Node\\Microsoft\\DirectPlay\\Service Providers\\Internet TCP/IP Connection For DirectPlay] 1557927863 6142560
 #time=1d50b244e354fe0
@@ -66752,10 +66752,10 @@ WINE REGISTRY Version 2
 "Previous Names"=str(7):""
 "Version"=dword:00000000
 
-[System\\CurrentControlSet\\Control\\Print\\Environments\\Windows NT x86\\Drivers\\Version-3\\EPSON XP-7100 Series] 1557947631 1891370
-#time=1d50b525499ddaa
+[System\\CurrentControlSet\\Control\\Print\\Environments\\Windows NT x86\\Drivers\\Version-3\\XP-7100] 1557950734 1645240
+#time=1d50b598e1e55b8
 "Configuration File"="wineps.drv"
-"Data File"="EPSON XP-7100 Series.ppd"
+"Data File"="XP-7100.ppd"
 "Datatype"="RAW"
 "Dependent Files"=str(7):""
 "Driver"="wineps.drv"
@@ -66792,35 +66792,35 @@ WINE REGISTRY Version 2
 #time=1d50b244c302ee0
 "Driver"="localspl.dll"
 
-[System\\CurrentControlSet\\Control\\Print\\Printers] 1557947631 1966680
-#time=1d50b52549b03d8
+[System\\CurrentControlSet\\Control\\Print\\Printers] 1557950734 1812870
+#time=1d50b598e20e486
 "DefaultSpoolDirectory"="C:\\windows\\system32\\spool\\printers"
 
-[System\\CurrentControlSet\\Control\\Print\\Printers\\EPSON XP-7100 Series] 1557950297 1341860
-#time=1d50b5889a0cc24
+[System\\CurrentControlSet\\Control\\Print\\Printers\\XP-7100] 1557950734 1780760
+#time=1d50b598e206718
 "Attributes"=dword:00000000
 "Datatype"="RAW"
-"Default DevMode"=hex:45,50,53,4f,4e,20,58,50,2d,37,31,30,30,20,53,65,72,69,65,\
-  73,00,00,00,00,00,00,00,00,00,00,00,00,0a,03,01,00,9c,00,08,00,13,ff,01,00,\
-  01,00,09,00,9a,0b,33,08,64,00,01,00,07,00,2c,01,02,00,01,00,2c,01,03,00,00,\
-  00,41,34,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+"Default DevMode"=hex:58,50,2d,37,31,30,30,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,0a,03,01,00,9c,00,08,00,13,ef,01,00,\
+  01,00,01,00,ea,0a,6f,08,64,00,01,00,07,00,2c,01,02,00,01,00,2c,01,03,00,00,\
+  00,55,53,20,4c,65,74,74,65,72,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
 "Default Priority"=dword:00000000
-"Description"="WINEPS Printer using LPR"
+"Description"="EPSON XP-7100 Series"
 "dnsTimeout"=dword:00000000
-"Location"="EPSON XP-7100 Series"
-"Name"="EPSON XP-7100 Series"
-"Parameters"="<parameters?>"
-"Port"="LPR:XP-7100"
+"Location"=""
+"Name"="XP-7100"
+"Parameters"=""
+"Port"="CUPS:XP-7100"
 "Print Processor"="WinPrint"
-"Printer Driver"="EPSON XP-7100 Series"
+"Printer Driver"="XP-7100"
 "Priority"=dword:00000000
-"Separator File"="<sep file?>"
-"Share Name"="<share name?>"
+"Separator File"=""
+"Share Name"=""
 "StartTime"=dword:00000000
-"Status"=dword:04000000
+"Status"=dword:00000000
 "txTimeout"=dword:00000000
 "UntilTime"=dword:00000000
 

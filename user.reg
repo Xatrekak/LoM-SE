@@ -275,12 +275,15 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Protected Storage System Provider] 1557927860 2186590
 #time=1d50b244c2f2f5e
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Applets\\Regedit] 1557949994 7340440
-#time=1d50b57d5623298
-"LastKey"="HKEY_LOCAL_MACHINE\\System\\MountedDevices"
+[Software\\Microsoft\\Windows\\CurrentVersion\\Applets\\Regedit] 1557951321 3407470
+#time=1d50b5aec1a50ee
+"LastKey"="HKEY_LOCAL_MACHINE\\Software\\sierra online\\setup\\lomse"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1557947697 1036880
 #time=1d50b527be3a0d0
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ComDlg32\\LastVisitedMRU] 1557950734 2327810
+#time=1d50b598e28c002
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1557927851 6572170
 #time=1d50b244714d00a
@@ -585,17 +588,17 @@ WINE REGISTRY Version 2
 #time=1d50b29d968c66e
 "C:\\GOG Games\\Lords of Magic Special Edition\\lomse.exe"="WIN95 DISABLETHEMES DISABLECICERO DISABLETHEMES RUNASADMIN"
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Devices] 1557947631 1970290
-#time=1d50b52549b11f2
-"EPSON XP-7100 Series"="wineps.drv,LPR:XP-7100"
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Devices] 1557950734 1817700
+#time=1d50b598e20f764
+"XP-7100"="wineps.drv,CUPS:XP-7100"
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\PrinterPorts] 1557947631 1970500
-#time=1d50b52549b12c4
-"EPSON XP-7100 Series"="wineps.drv,LPR:XP-7100,15,45"
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\PrinterPorts] 1557950734 1817880
+#time=1d50b598e20f818
+"XP-7100"="wineps.drv,CUPS:XP-7100,15,45"
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows] 1557947631 1962000
-#time=1d50b52549af190
-"device"="EPSON XP-7100 Series,WINEPS.DRV,LPR:XP-7100"
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows] 1557950734 1809400
+#time=1d50b598e20d6f8
+"device"="XP-7100,wineps.drv,CUPS:XP-7100"
 
 [Software\\Wine\\Debug] 1557927860 2142760
 #time=1d50b244c2e8428
@@ -657,13 +660,13 @@ WINE REGISTRY Version 2
 #time=1d50b248afdf8f0
 "guid"=hex:7e,3d,5f,a0,16,48,3e,4d,ac,34,f9,e5,2e,89,83,e0
 
-[Software\\Wine\\Fonts] 1557950296 6939870
-#time=1d50b58895da0de
+[Software\\Wine\\Fonts] 1557950693 3396210
+#time=1d50b5975c8f2f2
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1557950296 7162930
-#time=1d50b5889610832
+[Software\\Wine\\Fonts\\External Fonts] 1557950693 3632500
+#time=1d50b5975cc8df4
 "@Droid Sans Fallback (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansFallbackFull.ttf"
 "@Microsoft Yahei (TrueType)"="Z:\\home\\dustin\\.local\\share\\lutris\\runners\\wine\\tkg-unity-4.1-x86_64\\bin\\..\\share\\wine\\fonts\\msyh.ttf"
 "AkaashNormal (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\AkaashNormal.ttf"
